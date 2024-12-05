@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="qs9zlht-DoAaTnWEHC4DFqKBu0hN1dxXzgX0tzJMUxI" />
 # 2048 Actress Game
 
 Welcome to the **2048 Actress Game**! This is a fun and addictive tile-based game inspired by the classic **2048**, but with a unique twist – actresses are featured on the tiles! Combine tiles to reveal new images of actresses and aim for the ultimate tile.
